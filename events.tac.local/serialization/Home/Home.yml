@@ -1,0 +1,40 @@
+﻿---
+ID: "6b9538ad-6d06-4295-8a0a-c410e853e91f"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "2ca7e419-daab-4e38-b673-93c6d76cc253"
+Path: /sitecore/content/Home
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b9114b-4229-4ba3-976c-7b4478b20228"
+      Hint: ContentHeading
+      Value: Events
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220817T020823Z
+    - ID: "3dc07044-fc2b-46d2-9a59-06fec4a20e3e"
+      Hint: ContentIntro
+      Value: Welcome to the Events site
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "872559fc-8659-4744-8db6-3b236b3c1fbd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "cacc7997-67b6-4047-a98c-4ffc35b61299"
+      Hint: MetaTitle
+      Value: "The Adventure Company - Events"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220817T020854Z

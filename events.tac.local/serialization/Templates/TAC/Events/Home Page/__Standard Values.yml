@@ -1,0 +1,27 @@
+﻿---
+ID: "0851b29d-353f-4081-bc98-c94adbfbb8c6"
+Parent: "2ca7e419-daab-4e38-b673-93c6d76cc253"
+Template: "2ca7e419-daab-4e38-b673-93c6d76cc253"
+Path: /sitecore/templates/TAC/Events/Home Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{8547F5AC-9737-4F27-ADD3-5019EEDAEB35}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220817T021808Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fdc0f7f3-aed6-4b1c-9fff-54f4e4b2c675"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220817T022028Z

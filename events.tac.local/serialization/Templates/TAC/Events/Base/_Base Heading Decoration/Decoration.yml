@@ -1,0 +1,23 @@
+﻿---
+ID: "c0befacd-82a8-4f7c-a7b9-bf08646f4f13"
+Parent: "868c5f06-efa3-4269-9db8-a9ee0bdd9550"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/TAC/Events/Base/_Base Heading Decoration/Decoration
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220817T014020Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b7f087a0-63aa-482d-8e1a-c6f7766f34f3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220817T014020Z

@@ -1,0 +1,34 @@
+{
+  "namespace": "TAC",
+  "items": {
+    "includes": [
+      {
+        "name": "Templates",
+        "path": "/sitecore/Templates/TAC",
+        "rules": [
+          {
+            "path": "/TAC",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+
+          }
+        ]
+      },
+      {
+        "name": "Home",
+        "path": "/sitecore/content/Home",
+        "rules": [
+          {
+            "path": "/TAC",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+        ]
+      }
+    ]
+  }
+}

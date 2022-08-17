@@ -1,0 +1,38 @@
+﻿---
+ID: "90ac7554-a09c-45aa-bfe6-bed7f7b06489"
+Parent: "5eeb7feb-a00a-4f82-96de-d6c03c66b9ff"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/TAC/Events/Event Details
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/16x16/lightbulb_on.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {552D08F6-A47D-4A2C-BF46-326589A65F27}
+    {868C5F06-EFA3-4269-9DB8-A9EE0BDD9550}
+    {3921DF6C-D81E-485E-8BE7-E570372EDD04}
+    {ADE87CD0-A854-46FE-B09B-A251C675A8D6}
+    {93DBADDC-58BB-4617-99BE-54D2CC37E04A}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{39366BF2-50D9-4AA0-8E11-4988B2D35C81}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220817T020234Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "904a42c5-7415-4bc9-a178-5031f5597208"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220817T021357Z

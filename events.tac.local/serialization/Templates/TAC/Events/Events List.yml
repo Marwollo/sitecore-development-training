@@ -1,0 +1,37 @@
+﻿---
+ID: "0f27fcf9-cf4e-4394-915e-074a33b05dfa"
+Parent: "5eeb7feb-a00a-4f82-96de-d6c03c66b9ff"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/TAC/Events/Events List
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/16x16/alarmclock.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {552D08F6-A47D-4A2C-BF46-326589A65F27}
+    {868C5F06-EFA3-4269-9DB8-A9EE0BDD9550}
+    {3921DF6C-D81E-485E-8BE7-E570372EDD04}
+    {ADE87CD0-A854-46FE-B09B-A251C675A8D6}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{3EAD8FEB-D49D-4AFF-BAF4-E803E6EE5897}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220817T020040Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bfe6d4f9-bd75-4c27-9bf8-0122171f564a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220817T022404Z
